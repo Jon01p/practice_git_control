@@ -6,6 +6,7 @@
 
 int main()
 {
+	//asdasdadasdasdasdasdad
 	while (true) {
 		//notjing
 	}//what
