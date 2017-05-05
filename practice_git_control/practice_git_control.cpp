@@ -6,6 +6,9 @@
 
 int main()
 {
+	int i = 0;
+	i = 1;
+	cout << "hello" << endl;
     return 0;
 }
 
